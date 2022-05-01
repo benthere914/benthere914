@@ -1,5 +1,9 @@
 # Benjamin Rose
 <!-- <img src="https://ca.slack-edge.com/T03GU501J-U025530QL2Y-2ef5d624b3d3-512" alt="Benjamin Rose" style="order-radius: 500px" /> -->
+## Github Stats
+   * <img align="center" src="https://github-readme-stats.vercel.app/api?username=benthere914&count_private=true&show_icons=true&theme=tokyonight" />    
+   * <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benthere914&count_private=true&show_icons=true&theme=tokyonight" />
+   
 ## About Me
    * I started programming when I was 8 or 9
    * Since then I have worked with: 
@@ -37,7 +41,8 @@
           <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
           <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
           <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
-        <p/>     
+        <p/>
+
 
 
 
